@@ -1,0 +1,1 @@
+# onarrival-room-selection-method
